@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+}
+
+h1{
+    padding: 2px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+img{
+    height: 250px;
+}
+
+.container{
+    text-align: center;
+}
